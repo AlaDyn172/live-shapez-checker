@@ -13,3 +13,6 @@ This node module will detect if "yungshapez" streamer is live and will automatic
 - Write the following command in the *Node.JS* console:
 > npm i && node index.js
 - The script is now running and whenever *yungshapez* is streaming, the script will automatically open a tab for you.
+
+# Yungshapez Twitch Link
+https://www.twitch.tv/yungshapez
