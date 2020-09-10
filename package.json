@@ -1,0 +1,20 @@
+{
+  "name": "live-shapez-checker",
+  "version": "1.0.0",
+  "description": "This node module will detect if  < yungshapez >  streamer is live and will automatically open a tab on your default browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shapez",
+    "script"
+  ],
+  "author": "Echo",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "opn": "^6.0.0",
+    "request": "^2.88.2"
+  }
+}
